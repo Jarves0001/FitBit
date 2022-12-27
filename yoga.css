@@ -1,0 +1,20 @@
+ body{
+   overflow: hidden;
+ }
+
+ .ag-img{
+    width: 100vw;
+    text-align: center;
+    filter: blur(3px);
+ }
+
+.ag-img img{
+  width: 55vw;
+}
+
+ .content{
+position: absolute;
+top: 0;
+color:blue;
+
+ }
